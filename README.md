@@ -16,6 +16,14 @@ UniStay es una plataforma web diseñada para conectar a estudiantes universitari
 
 ---
 
+### UniStay – Plataforma Web
+
+Acceso directo al sistema:  
+https://uni-stay-software.vercel.app/login
+
+
+---
+
 ## Documentación del Proyecto
 
 Toda la documentación generada durante el desarrollo de UniStay se encuentra en la carpeta `DOCUMENTACION` dentro del repositorio, además de enlaces externos utilizados para la planificación y documentación técnica.
