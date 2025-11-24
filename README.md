@@ -50,5 +50,4 @@ Diagramas utilizados para representar flujos y estructuras del sistema.
 
 ---
 
-## Estructura del Repositorio
 
