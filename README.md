@@ -51,8 +51,8 @@ Diagramas utilizados para representar flujos y estructuras del sistema.
 
 | Recurso | Descripción | Enlace |
 |---------|-------------|--------|
-| Documentación Técnica (Confluence) | Endpoints, arquitectura, diagramas UML y detalles de implementación. | (Agregar enlace aquí) |
-| Tablero del Proyecto (Trello) | Sprint, planificación, reuniones, testing y avances del equipo UniStay. | (Agregar enlace aquí) |
+| Documentación Técnica (Confluence) | Endpoints, arquitectura, diagramas UML y detalles de implementación. | (https://uca-team-hq3nkp4o.atlassian.net/wiki/x/BgDJAg) |
+| Tablero del Proyecto (Trello) | Sprint, planificación, reuniones, testing y avances del equipo UniStay. | (https://trello.com/invite/b/6921239c3a55133f12adc95b/ATTI199d7d17655a06ecfe93fa03b84942efCE71B7B1/unistay-sprint-noviembre-2025) |
 
 ---
 
