@@ -24,9 +24,9 @@ Toda la documentación generada durante el desarrollo de UniStay se encuentra en
 
 | Documento | Descripción | Enlace |
 |----------|-------------|--------|
-| Historias de Usuario (PDF) | Documento oficial con las historias de usuario del proyecto UniStay. | ./DOCUMENTACION/HISTORIAS_USUARIO_UNISTAY_IS_01_.pdf |
+| Historias de Usuario (PDF) | Documento oficial con las historias de usuario del proyecto UniStay. | ./DOCUMENTACION/HISTORIAS_USUARIO_UNISTAY_IS_01_2025.pdf |
 | Documentación General (PDF) | Resumen del proyecto, alcance, actores y objetivos principales. | ./DOCUMENTACION/Documentacion_UniStay_IS.pdf |
-| Diagramas Base de Historias (PDF) | Diagramas utilizados para representar flujos y estructuras del sistema. | ./DOCUMENTACION/DIAGRAMAS%20DE%20BASES%20DE%20HISTORIAS.pdf |
+| Diagramas Base de Historias (PDF) | Diagramas utilizados para representar flujos y estructuras del sistema. | ./DOCUMENTACION/DIAGRAMAS%20DE%20BASES%20DE%20HISTORIAS%20DE%20USUARIO.pdf |
 
 ---
 
